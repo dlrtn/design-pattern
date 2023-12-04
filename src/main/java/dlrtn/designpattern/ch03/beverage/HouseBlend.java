@@ -1,4 +1,4 @@
-package dlrtn.designpattern.ch03;
+package dlrtn.designpattern.ch03.beverage;
 
 public class HouseBlend extends Beverage {
     public HouseBlend() {

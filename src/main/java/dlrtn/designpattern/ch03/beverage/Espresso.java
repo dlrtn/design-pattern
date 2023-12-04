@@ -1,4 +1,4 @@
-package dlrtn.designpattern.ch03;
+package dlrtn.designpattern.ch03.beverage;
 
 public class Espresso extends Beverage {
 
